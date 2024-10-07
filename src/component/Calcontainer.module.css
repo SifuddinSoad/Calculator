@@ -1,6 +1,7 @@
 .Calcontainer {
   background-color: antiquewhite;
   max-width: 320px;
+  min-width: 270px;
   width: 40%;
   border: 1px solid black;
   border-radius: 5px;
